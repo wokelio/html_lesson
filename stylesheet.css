@@ -16,3 +16,7 @@
   background-color: #FF7F50;
   heiht: 100px;
 }
+
+li {
+  list-style: none;
+}
