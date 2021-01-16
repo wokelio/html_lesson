@@ -17,6 +17,10 @@
   heiht: 100px;
 }
 
+.header-logo {
+  float: left;
+}
+
 li {
   list-style: none;
 }
